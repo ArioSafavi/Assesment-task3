@@ -71,6 +71,7 @@
     <Compile Include="Assets\Scripts\ClickToQuit.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
+    <Compile Include="Assets\Scripts\Monster.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
