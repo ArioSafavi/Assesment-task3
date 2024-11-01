@@ -6,5 +6,42 @@ To adress the missrepresentation of Persian culture in video games that also upl
 ### The problem
 The problem my game will adress is the misrepresentation of Persian culture in video games such as Call of Duty often painting them as terrorists.
 ### Skill development
-To develop the skills in unity required to create the game, I would complete this [Top Down RPG Unity tutorial](https://www.youtube.com/watch?v=b8YUfee_pzc)
+To develop the skills in unity required to create the game, I would complete this course [Top Down RPG Unity tutorial](https://www.youtube.com/watch?v=b8YUfee_pzc).
 ## Requirements Outline
+### Inputs
+Inputs for the user will be direction keyboard keys, buttons to use and spacebar for jumping.
+### Proccessing
+The program will check for collisions, calculate the new position of the player and check for keypresses then update gamescore accordingly.
+### Outputs
+The game will display the characters progress, the characters position, background foreground and the splash screen.
+### Transmission
+My project will not use any online aspects.
+### Storage
+The game will save progress and high scores locally to the computer.
+## Functional Requirments
+### User interaction
+The user will interatct with the game through the keyboard for computer and touch controls for andriod or IOS . The user will be able to move the player, pick up and use objects and input data when required. Pressing the arrow keys will result in the player moving and pressing e will use the ability for a selected object.
+### Core gameplay
+Movement will be fliud and fast. The game will have a grappling hook to be the main mode of transport. The grappling hook will only be able to grapple onto specific objects with a tag. Combat will be with a sword that the player can access by pressing q everything within a certain range of the player will take damage.
+### Scoring and feedback
+Players will recieve a higher score for two reasons
+1. Fast time completing levels
+2. Amount of enemies killed
+Different enemies are worth different points and depending on the level length the time taken to complete the levels will also contribute to amount of points gained.
+### level progression
+Different levels in this game are accessed through reaching the end and collecting the finalobject. This final object will unlock the next level for the player. In some specific levels the player must kill all enemies before the next level is unlocked.
+### Saving and loading data
+All saved data will be saved locally through saved files stored in the games files which are realoaded upon the game being opened again.
+## Non-functional requirments
+### Performance requirements
+The game should be able to respond to user inputs instantly without lag and load fast.
+### Usability Requirments
+The game has a clear beginner-friendly tutorial to explain the core mechanics to first time users. The UI will also be easy to understand and use.
+### Compatibility Requirements
+The game will be compatable with computer, IOS and android. Shifting from touchpad to keyboard depending on the device being used.
+### Scalability Requirements
+The game should be able to scale to include additional levels without impacting performance.
+### Security Requirements
+No user data will be collected unless the user puts their own name for the player and all data will be stored locally in a secure file.
+### Reliability and Availability Requirements
+The system should be available all the time as it is an offline game and does not require any internet to access it. Data loss will be prevented by making
