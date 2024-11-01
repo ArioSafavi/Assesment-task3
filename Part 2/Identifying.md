@@ -44,4 +44,18 @@ The game should be able to scale to include additional levels without impacting 
 ### Security Requirements
 No user data will be collected unless the user puts their own name for the player and all data will be stored locally in a secure file.
 ### Reliability and Availability Requirements
-The system should be available all the time as it is an offline game and does not require any internet to access it. Data loss will be prevented by making
+The system should be available all the time as it is an offline game and does not require any internet to access it. Data loss will be prevented by making the game automatically save after reaching a checkpoint or beating a level.
+## Consideration of Social and Ethical Issues
+### define
+- Equity means being fair and impartial.
+- Accessibility means the quality of being easy to obtain or use.
+### Accessibillity
+My project will be able to be used by all people as it does not have any verbal lines but all text will be easily read because it is contrasting with the background and is large enough to read.
+### Privacy and Data Protection
+My project will collect high scores and the name of a player. All files are stored locally to the players computer and are not used for anything other than the game.
+### Fairness and Representation
+My project will avoid any steryotypes and infact will try to fix them. My character is Iranian and so am I. This means I am qualified to make a culturally friendly character for the game.
+### Mental and Emotional Well-Being
+My game will not include anything that can mentally or emotianally affect ones wellbeing. Violence will be minimum if at all.
+### Cultural Sensitivites
+My game will make to the be mindful of any aspects that could potentially be offensive to different cultures. 
