@@ -123,7 +123,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 932a5b9f1dcf88c419cc3b1d083587a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 71.5
+  speed: 300
   maxVelocity: {x: 100, y: 100}
   jetSpeed: 8199
   standing: 1
