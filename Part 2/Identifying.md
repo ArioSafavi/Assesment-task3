@@ -22,7 +22,7 @@ The game will save progress and high scores locally to the computer.
 ### User interaction
 The user will interatct with the game through the keyboard for computer and touch controls for andriod or IOS . The user will be able to move the player, pick up and use objects and input data when required. Pressing the arrow keys will result in the player moving and pressing e will use the ability for a selected object.
 ### Core gameplay
-Movement will be fliud and fast. The game will have a grappling hook to be the main mode of transport. The grappling hook will only be able to grapple onto specific objects with a tag. Combat will be with a sword that the player can access by pressing q everything within a certain range of the player will take damage.
+Combat will hapen as interactions do. This will be a live combat system so the player will have to dodge and attack with their reaction time. The enemey can be skipped unless it is a boss fight. The player will have a wepon and it will do damadge to the opponent after the opponent took enough damadge he will die and drop points.
 ### Scoring and feedback
 Players will recieve a higher score for two reasons
 1. Fast time completing levels
